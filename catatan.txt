@@ -1,0 +1,12 @@
+cara penggunaan 
+
+1. jalankan comment dibawah
+php artisan migrate
+
+code
+
+1. code
+p -> public user
+a -> admin
+v -> vendor
+ai -> akses induk
